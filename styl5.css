@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+}
+#container{
+    margin: 0px;
+    
+}
+h1{
+ position: relative;
+ margin-top:  0px;
+ 
+}
+
+#baner{
+    background-color: #1C59A7;
+    color:white;
+    text-align: center;
+    height: 80px;
+    object-position: bottom;
+}
+#lewy{
+    background-color: #3A70B5;
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+#srodkowy{
+    background-color: #5A8AC8;
+    width: 33%;
+    height: 200px;
+    float: left;
+}
+#prawy{
+    background-color: #86ACDD;
+    text-align: center;
+    width: 34%;
+    height: 200px;
+    float: left;
+    
+}
+#dolny{
+    background-color: #86ACDD;
+    text-align: center;
+    height: 300px;
+    clear: both;
+}
+#stopka{
+    background-color: #1C59A7;
+    color: white;
+    clear: both;
+    margin-top:-20px;
+}
+#op{
+    font-style: italic;
+}
+#wes{
+    position: fixed;
+    margin-left: -360px;
+    
+}
+#dwes{
+    position: relative;
+    margin-right: -680px;
+    margin-top: -58px;
+    
+}
+#domw{
+    text-align: center;
+    vertical-align:;
+    clear: both;
+}
+img{
+    width: 80px;
+    height: 80px;
+}
