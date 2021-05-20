@@ -1,2 +1,2 @@
-# js-czerwiec-2018.zad05-e14
+# ArkuszE14.06.2018.05
 zadanie z e14 
